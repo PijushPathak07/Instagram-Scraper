@@ -19,6 +19,6 @@ python [path of file] [url to slack hook] [instagram url] [instagram url] ...
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-##More repositories
+## More repositories
 
 https://github.com/PijushPathak07
